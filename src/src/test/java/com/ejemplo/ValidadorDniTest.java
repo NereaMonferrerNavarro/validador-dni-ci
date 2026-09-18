@@ -1,9 +1,10 @@
-package test.java.com.ejemplo;
+package src.test.java.com.ejemplo;
 
 import org.junit.jupiter.api.Test;
+import src.main.java.com.ejemplo.ValidadorDni;
 import static org.junit.jupiter.api.Assertions.*;
 
-class ValidadorDniTest {
+public class ValidadorDniTest {
 
     private final ValidadorDni validador = new ValidadorDni();
 

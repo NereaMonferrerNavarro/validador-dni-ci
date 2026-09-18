@@ -1,7 +1,6 @@
-package main.java.com.ejemplo;
+package src.main.java.com.ejemplo;
 
 public class ValidadorDni {
-
     private static final String LETRAS = "TRWAGMYFPDXBNJZSQVHLCKE";
 
     public boolean esValido(String dni) {

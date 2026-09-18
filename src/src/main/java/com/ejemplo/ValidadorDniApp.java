@@ -1,4 +1,4 @@
-package main.java.com.ejemplo;
+package src.main.java.com.ejemplo;
 
 public class ValidadorDniApp {
     public static void main(String[] args) {
